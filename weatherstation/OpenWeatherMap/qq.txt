@@ -1,0 +1,18 @@
+рабочие данные TFT
+    Serial.print('TFT_DC ');
+    Serial.println(TFT_DC);
+    Serial.print('TFT_CS ');
+    Serial.println(TFT_CS);
+    Serial.print('BTN_1 ');
+    Serial.println(BTN_1);
+    Serial.print('SDA_PIN ');
+    Serial.println(SDA_PIN);
+    Serial.print('SCL_PIN ');
+    Serial.println(SCL_PIN);
+    Serial.print('TOUCH_CS ');
+    Serial.println(TOUCH_CS);
+    Serial.print('TOUCH_IRQ ');
+    Serial.println(TOUCH_IRQ);
+    Serial.print('HAVE_TOUCHPAD ');
+    Serial.println(HAVE_TOUCHPAD);
+}
